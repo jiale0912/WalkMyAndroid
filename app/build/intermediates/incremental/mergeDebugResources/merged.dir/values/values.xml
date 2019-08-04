@@ -578,7 +578,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="get_location">Get Location</string>
+    <string name="get_location">Start Tracking Location</string>
     <string name="invalid_lat_long_used">Invalid coordinates used</string>
     <string name="loading">Loading…</string>
     <string name="location_permission_denied">Location permissions denied,

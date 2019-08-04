@@ -15,7 +15,7 @@
 -->
 <resources>
     <string name="app_name">Walk My Android</string>
-    <string name="get_location">Get Location</string>
+    <string name="get_location">Start Tracking Location</string>
     <string name="android_image">Android Image</string>
     <string name="textview_hint">Press the button to start tracking your
         location.
